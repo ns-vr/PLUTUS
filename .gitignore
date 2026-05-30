@@ -1,0 +1,32 @@
+# Environment
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+*.egg
+
+# Node
+node_modules/
+.next/
+out/
+.vercel/
+
+# ML artifacts
+ml/models/*.pkl
+ml/models/*.joblib
+ml/models/*.h5
+ml/data/raw/
+
+# Misc
+.DS_Store
+*.log
+.idea/
+.vscode/
