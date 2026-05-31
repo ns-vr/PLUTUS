@@ -8,7 +8,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![Hackathon](https://img.shields.io/badge/Built_At-Hackathon_2025-gold?style=for-the-badge&logo=trophy)](.)
+[![Hackathon](https://img.shields.io/badge/Built_At-Hackathon_2026-gold?style=for-the-badge&logo=trophy)](.)
 
 **Predict. Protect. Prosper.**
 
