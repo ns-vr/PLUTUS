@@ -33,7 +33,8 @@ Financial and healthcare systems operate in silos. When a person faces a sudden 
 > Upload your documents → agents analyze in parallel → receive your Crisis Prevention Report in seconds.
 
 ```
-[Screenshot / GIF here — add after first demo run]
+[<img width="1872" height="950" alt="image" src="https://github.com/user-attachments/assets/dd3297cd-00cd-4a77-a6a3-962a1ca838be" />
+]
 ```
 
 **Live demo:** _coming soon_ · **Video walkthrough:** _coming soon_
